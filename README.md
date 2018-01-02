@@ -1,7 +1,7 @@
-# C_programming_project
+# C Programming Project
 Design of an Intelligent Car, Intelligent Car Laboratory of Northeastern University
 <br>
-### path navpath_navigation_and_preset_distance
+### path navigation and preset distance
 ● Realized various functions including tapping to start, path navigation, and travelling for preset distances before automatic stop.
 <br>
 ### Bug0，Bug1，Bug2
